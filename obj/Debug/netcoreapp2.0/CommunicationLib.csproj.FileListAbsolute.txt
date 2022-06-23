@@ -1,0 +1,10 @@
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\netcoreapp2.0\CommunicationLib.deps.json
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\netcoreapp2.0\CommunicationLib.dll
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\netcoreapp2.0\CommunicationLib.pdb
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.csproj.AssemblyReference.cache
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.AssemblyInfo.cs
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.csproj.CoreCompileInputs.cache
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.dll
+C:\Users\pim\Desktop\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\netcoreapp2.0\CommunicationLib.pdb

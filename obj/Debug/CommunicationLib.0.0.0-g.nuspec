@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CommunicationLib</id>
+    <version>0.0.0-g</version>
+    <authors>CommunicationLib</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="WampSharp.Default" version="22.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\net6.0\CommunicationLib.dll" target="lib\net6.0\CommunicationLib.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\net6.0\CommunicationLib.deps.json
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\net6.0\CommunicationLib.dll
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\bin\Debug\net6.0\CommunicationLib.pdb
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.csproj.AssemblyReference.cache
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.AssemblyInfoInputs.cache
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.AssemblyInfo.cs
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.csproj.CoreCompileInputs.cache
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.dll
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\refint\CommunicationLib.dll
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\CommunicationLib.pdb
+E:\projects\[POC]WampCommLib\IdentityService\CommunicationLib\CommunicationLib\obj\Debug\net6.0\ref\CommunicationLib.dll
