@@ -25,7 +25,7 @@ to use the package for wamp add the following to startup file:
             ...
             
             metadataCollection = new MetadataCollection(
-                new[] { typeof(IUserService), typeof(ILoginService), typeof(IRoleService) },
+                new[] { typeof(ILoginService) },
                 "com.pca",
                 MinVersion, MaxVersion
             );
