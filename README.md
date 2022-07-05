@@ -80,3 +80,6 @@ Add "[ServiceVersion(x)]" to your interface like this
         Task<String> Login(string email, string password, string 2fa);
     }
 ```
+
+When u made a new version of your interface and u increased the ServiceVersion number to for example 3 do not forget to update the MaxVersion in the startup file.
+
