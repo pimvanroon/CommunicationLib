@@ -83,5 +83,6 @@ When u made a new version of your interface and u increased the ServiceVersion n
 
 # Metadata endpoint
 
-If u browse to http://localhost:22224/metadata u will see a page with a json object which contains all Interfaces/services with parameters etc(be sure to add the interface to the metadatacollection).
+If u browse to http://localhost:22224/metadata u will see a page with a json object which contains all Interfaces/services with parameters etc(be sure to add the interface to the metadatacollection see startup.cs).
+
 Based on the metadata we can create a simple console application which reads the json and generates all typescript files/models to easily update the frontend for currently supported protocols.
