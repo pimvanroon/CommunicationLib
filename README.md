@@ -81,5 +81,4 @@ Add "[ServiceVersion(x)]" to your interface like this
     }
 ```
 
-When u made a new version of your interface and u increased the ServiceVersion number to for example 3 do not forget to update the MaxVersion in the startup file.
-
+When u made a new version of your interface and u increased the ServiceVersion number to for example 3 do not forget to update the MaxVersion in the startup file. This also works the other way around increase MinVersion to 2 so the ServiceVersion 1 of you're interface won't be used.
